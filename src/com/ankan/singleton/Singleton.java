@@ -6,7 +6,7 @@ public class Singleton {
 
     }
 
-    private static Singleton instance; // This is a static variable that will hold the single instance of the Singleton class.Being static ensures that the variable is shared across all instances of the class, but since the constructor is private, only the Singleton class itself can assign a value to it.
+    private static Singleton instance; // This is a static variable that will hold the single instance of the Singleton class. Being static ensures that the variable is shared across all instances of the class, but since the constructor is private, only the Singleton class itself can assign a value to it.
 
     public static synchronized Singleton getInstance() {
         // check whether 1 object only is created or not
