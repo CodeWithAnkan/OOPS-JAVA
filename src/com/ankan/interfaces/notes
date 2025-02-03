@@ -1,0 +1,1 @@
+Interfaces have final and static methods. Child classes can have multiple super(). Supports multiple inheritance.

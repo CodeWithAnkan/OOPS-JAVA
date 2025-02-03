@@ -1,0 +1,3 @@
+Encapsulation - Wrapping up the implementation of the data members and methods in a class. It is for the engineers who dealing with the functioning of the code (back-end).
+
+Abstraction - Hiding unnecessary details and showing valuable information. It's actually for the users who are using it (front-end).

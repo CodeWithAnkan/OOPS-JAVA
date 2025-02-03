@@ -1,0 +1,6 @@
+It means many ways to represent a single entity or item.
+
+Types of Polymorphism
+
+1. Compile Time/Static Polymorphism - Achieved by a method overloading.
+2. Dynamic Polymorphism/Run-time Polymorphism - Achieved by method overriding.

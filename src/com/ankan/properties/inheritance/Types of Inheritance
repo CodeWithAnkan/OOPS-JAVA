@@ -1,0 +1,6 @@
+Types of Inheritance
+
+1. Single Inheritance: One class extends another class
+2. Multi-Level Inheritance: Box -> BoxWeight <- BoxPrice. One class extending more than one class. But if Box has a variable n which has a value 10. And at the same time BoxPrice has the same n = 10, the if C c = new C() {system.out. println(C.n)}. Then what will be printed? Java will get confused. So Multi-Level inheritance is not there in Java.
+3. Hierarchical Inheritance: One class is inherited by many classes. A -> B, A -> C, A -> D
+4. Hybrid Inheritance: Combination of single and multiple inheritance. As we don't have multiple inheritance, we don't have hybrid inheritance.
