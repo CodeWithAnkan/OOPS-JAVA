@@ -1,4 +1,4 @@
-package com.ankan.packages.b.Greeting;
+package com.ankan.packages.b;
 public class Message {
     public static void main(String[] args) {
 

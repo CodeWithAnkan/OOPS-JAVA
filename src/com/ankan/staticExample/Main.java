@@ -1,6 +1,6 @@
 package com.ankan.staticExample;
 
-import static com.ankan.packages.b.Greeting.Greeting.Greeting;
+import static com.ankan.packages.b.Greeting.Greeting;
 
 class Car {
     String brand;
