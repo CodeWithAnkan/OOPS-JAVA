@@ -1,4 +1,4 @@
-package com.ankan.properties.inheritance;
+package com.ankan.inheritance;
 
 public class BoxColor extends BoxWeight {
 }

@@ -1,4 +1,4 @@
-package com.ankan.properties.inheritance.polymorphism;
+package com.ankan.inheritance.polymorphism;
 
 public class Main {
     public static void main(String[] args) {

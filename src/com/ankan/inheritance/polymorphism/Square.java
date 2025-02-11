@@ -1,4 +1,4 @@
-package com.ankan.properties.inheritance.polymorphism;
+package com.ankan.inheritance.polymorphism;
 
 public class Square extends Shapes{
     @Override

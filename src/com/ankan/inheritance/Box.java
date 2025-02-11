@@ -1,4 +1,4 @@
-package com.ankan.properties.inheritance;
+package com.ankan.inheritance;
 
 public class Box {
     // private double l; private variable can be accessed from this file only. It cannot be initialised from another
