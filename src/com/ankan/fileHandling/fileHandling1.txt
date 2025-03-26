@@ -1,0 +1,18 @@
+Streams --> Sequence of data. It can be of two types
+    1. Byte value
+    2. Characters (Unicode)
+Java performs I/O through these streams and these are just abstractions that Java provides
+Java implements these within class hierarchy in java.io package
+
+All are abstract classes
+
+Byte stream for reading files and image. Defined in two class hierarchy: Input Stream and Output Stream
+
+Character stream for Unicode characters. More efficient than byte stream. Two parts: Reader and Writer.
+
+IO Exception: Corrupt file, not able to read, file not found
+
+Pre-defined Streams in Java:
+    System.out --> standard output Stream --> console
+    System.in --> standard input stream --> keyboard
+    System.err --> standard error --> console
